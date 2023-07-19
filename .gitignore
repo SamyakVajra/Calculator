@@ -1,0 +1,4 @@
+__pycache__/
+*.env
+!hello.env
+passcode.txt
