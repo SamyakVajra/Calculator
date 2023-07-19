@@ -7,7 +7,7 @@ a = 100
 b = 50
 
 total_sum = add_work.add(a,b)
-total_sub = sub_work.sub(a,b)
+total_sub = sub_work.subs(a,b)
 total_mul = mul_work.mul(a,b)
 total_div = div_work.div(a,b)
 
